@@ -15,7 +15,4 @@ export default {
 }
 </script>
 
-<style scoped l
-HelloWorldang ="scss">
-
-</style>
+<style</style>
